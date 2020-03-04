@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'Countermot'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 #google-ID: 'UA-112060364-2'
@@ -12,12 +12,12 @@ menu:
 #- {name: 'posts', folder: 'pages', file: 'sample-posts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'about', folder: 'pages', file: 'about.html'}
-- {name: 'contact', folder: 'pages', file: 'contact.html'}
+#- {name: 'contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/SA_at_SA'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'facebook', link: 'https://www.facebook.com/rustem.miftakhov'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:l.rustem.miftakhov@gmail.com'}
 #- {icon: 'rss-square', link: 'feed.xml'}
